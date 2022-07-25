@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Ruihai Dong (董瑞海) is an Assistant Professor with the School of Computer Science in University College Dublin. His research interests lie broadly in Machine Learning and Deep Learning, and their applications in recommender systems and finance. Ruihai has published in top peer-reviewed journals and conferences such as WWW, RECSYS, IUI, and IJCAI and in 2018 Ruihai was awarded the Outstanding Research Award 2018 by the UCD School of Computer Science for a series of significant publications that year. Ruihai has a track record of collaboration with industry and has worked with companies including Eagle Alpha, SkillPages, and Samsung as well as individually winning funding from Enterprise Ireland for commercialization studying of his research.
+
 You can use the [editor on GitHub](https://github.com/ruihai/ruihai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
